@@ -1,0 +1,4 @@
+resist
+effect
+tongue
+record

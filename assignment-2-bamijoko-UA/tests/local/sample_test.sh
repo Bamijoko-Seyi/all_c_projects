@@ -1,0 +1,1 @@
+./wordSearch2D -p ./tests/local/puzzle.txt -l 6 -w ./tests/local/wordlist.txt

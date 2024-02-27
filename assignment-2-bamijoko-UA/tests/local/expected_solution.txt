@@ -1,0 +1,4 @@
+resist;(0,7);2
+effect;(7,0);4
+tongue;(1,1);5
+record;(7,2);1
